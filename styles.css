@@ -1,0 +1,66 @@
+/* Styles for the body element */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+/* Styles for the box element */
+.box {
+  margin: 0 auto;
+  max-width: 600px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+/* Styles for the heading element */
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #333;
+}
+
+/* Styles for the form element */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Styles for the label element */
+label {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Styles for the input element */
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  width: 80%;
+}
+
+/* Styles for the button element */
+button[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Styles for the footer element */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #999;
+}
